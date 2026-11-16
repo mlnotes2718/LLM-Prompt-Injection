@@ -215,6 +215,7 @@ Further testing with more attacks, more trials, and different scenarios would be
 
 ## References
 
+- [Tenable Research Advisory TRA-2025-10 — GCP Gemini Cloud Assist Prompt Injection Vulnerability](https://www.tenable.com/security/research/tra-2025-10)
 - [OWASP — LLM Prompt Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html)
 - [OWASP — Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
 - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
